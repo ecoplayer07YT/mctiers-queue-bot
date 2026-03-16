@@ -17,7 +17,7 @@ A Python selfbot that watches the **MCTiers Discord server** for the testing que
 - 📊 Tracks your queue position in real-time as others leave
 - 📱 Sends all updates to your phone via Telegram
 - 🔒 Click lock prevents double-joining
-
+- 📒 Fully open source
 ---
 
 ## 📱 Notifications
