@@ -54,7 +54,7 @@ This is a **selfbot** — it runs on your personal Discord user account, not a b
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ecoplayer07YT/discord-queue-sniper
+git clone https://github.com/ecoplayer07YT/mctiers-queue-bot
 cd discord-queue-sniper
 pip install -r requirements.txt
 ```
